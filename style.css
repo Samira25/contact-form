@@ -1,0 +1,49 @@
+/* generic */
+#content {
+    height: 65%;
+    width: 65%;
+    padding: 2%;
+    min-width: 300px;
+}
+.form-w3-agile {
+    margin-top: 5%;
+    background-color: rgba(230, 230, 230, 0.8);
+    -webkit-box-shadow: 0px 35px 44px -22px rgba(0,0,0,0.72);
+    -moz-box-shadow: 0px 35px 44px -22px rgba(0,0,0,0.72);
+    box-shadow: 0px 35px 44px -22px #1f181b;
+    padding: 60px 40px;
+}
+#contact_form {
+    height: 100%;
+    width: 100%;
+}
+header {
+    font-family:'Courier New';
+    text-align:center;
+    font-size:40px;
+    padding:0;
+    margin:0 0 20px 0;
+    position:relative;
+    color:#8C8C8C;
+}
+label {
+    font-family:'Courier New';
+    font-size:18px;
+    color:#7F7E7E;
+    -webkit-transition: color 1s ease;
+    -moz-transition: color 1s ease;
+    transition: color 1s ease;
+}
+label:hover {
+    color:#191919;
+}
+label:before {
+    color:#C1BFBD;
+    -webkit-transition: color 1s ease;
+    -moz-transition: color 1s ease;
+    transition: color 1s ease;
+}
+h3{
+    color: green;
+    text-align: center;
+}
