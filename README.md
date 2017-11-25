@@ -1,2 +1,2 @@
 # contact-form
-basic contact form using pdo
+Full contact form with validation using pdo
